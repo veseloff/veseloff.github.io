@@ -21,7 +21,7 @@ comments: true
       {% endfor %}
     {% endcapture %}
   {% endif %}
-  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}, {{ authorslist }}</a></li>
+  <li><a href="{{ site.url }}{{ post.url }}"><b>{{ post.title }}</b><br>{{ authorslist }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
