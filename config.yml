@@ -35,7 +35,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Tyumen Tensor Forum
   avatar: bio-photo.jpg
-  email: ev.koval@tensor.com
+  email: iv.veselov@tensor.com
   disqus-shortname: tensor-tyumen
   github:
   stackexchange: 
