@@ -1,0 +1,48 @@
+# Site wide configuration
+
+title: Tyumen Tensor Forum
+locale: ru_RU
+description: Место встречи тюменских разработчиков
+logo: logo.png
+search: true
+url: http://tmn.tensor.ru/
+url: 
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Tyumen Tensor Forum
+  avatar: bio-photo.jpg
+  email: ev.koval@tensor.com
+  disqus-shortname: tensor-tyumen
+  github:
+  stackexchange: 
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  google:
+    analytics: UA-78951182-1
+  tumblr: #username
+  bing-verify:
