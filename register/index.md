@@ -4,4 +4,4 @@ title: Приходите в гости!
 comments: true
 ---
 
-<script type="text/javascript" defer="defer" charset="UTF-8" data-timepad-customized="573685" data-timepad-apidomain="timepad.ru" data-timepad-widget-v2="event_list3" src="https://timepad.ru/js/tpwf/loader/min/loader.js"></script>
+<a href="https://tensor-tmn.timepad.ru/event/573685/" data-twf-placeholder="yes">Перейти к заказу билетов</a><script type="text/javascript" async="async" defer="defer" charset="UTF-8" src="https://timepad.ru/js/tpwf/loader/min/loader.js" data-timepad-customized="21998" data-twf2s-event--id="573685" data-timepad-widget-v2="event_register"></script>
