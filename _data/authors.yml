@@ -6,10 +6,10 @@ timofeev_vitaliy:
   company: Тензор Ярославль
   current: true
 
-ryazanov_ivan:
-  name: Рязанов Иван
-  avatar: ryazanov_ivan.jpg
-  company: Тензор Тюмень
+veselov_igor:
+  name: Веселов Игорь
+  avatar: veselov_igor.jpg
+  company: Тензор Екатеринбург
   current: true
 
 vagurov_evgeny:
@@ -18,10 +18,10 @@ vagurov_evgeny:
   company: Тензор Екатеринбург
   current: true
 
-veselov_igor:
-  name: Веселов Игорь
-  avatar: veselov_igor.jpg
-  company: Тензор Екатеринбург
+ryazanov_ivan:
+  name: Рязанов Иван
+  avatar: ryazanov_ivan.jpg
+  company: Тензор Тюмень
   current: true
 
 harlov_anton:
