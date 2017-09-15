@@ -6,15 +6,15 @@ timofeev_vitaliy:
   company: Тензор Ярославль
   current: true
 
-veselov_igor:
-  name: Веселов Игорь
-  avatar: veselov_igor.jpg
-  company: Тензор Екатеринбург
-  current: true
-
 vagurov_evgeny:
   name: Вагуров Евгений
   avatar: vagurov_evgeny.jpg
+  company: Тензор Екатеринбург
+  current: true
+
+veselov_igor:
+  name: Веселов Игорь
+  avatar: veselov_igor.jpg
   company: Тензор Екатеринбург
   current: true
 
