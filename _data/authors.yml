@@ -4,11 +4,17 @@ timofeev_vitaliy:
   email: vn.timofeev@tensor.ru
   avatar: timofeev_vitaliy.png
   company: Тензор Ярославль
-  current: true
+  current: false
 
 vagurov_evgeny:
   name: Вагуров Евгений
   avatar: vagurov_evgeny.jpg
+  company: Тензор Екатеринбург
+  current: false
+
+shumilova_oksana:
+  name: Оксана Шумилова
+  avatar: shumilova_oksana.jpg
   company: Тензор Екатеринбург
   current: true
 
@@ -16,13 +22,13 @@ veselov_igor:
   name: Веселов Игорь
   avatar: veselov_igor.jpg
   company: Тензор Екатеринбург
-  current: true
+  current: false
 
 ryazanov_ivan:
   name: Рязанов Иван
   avatar: ryazanov_ivan.jpg
   company: Тензор Тюмень
-  current: true
+  current: false
 
 harlov_anton:
   name: Харлов Антон
@@ -44,11 +50,11 @@ khamitov_kirill:
   current: false
   
 bogatirev_misha:
-  name: Богатырев Михаил
+  name: Михаил Богатырев
   email: ma.bogatyrev@tensor.ru
   avatar: misha.png
   company: Тензор Уфа
-  current: false
+  current: true
 
 potykov_vitaliy:
   name: Потяков Виталий
@@ -207,3 +213,9 @@ luss:
   name: Владимир Лусс
   avatar: luss.jpg
   company: Тензор Ярославль
+
+zuev_dmitry:
+  name: Дмитрий Зуев
+  avatar: zuev_dmitry.png
+  company: Тензор Ярославль
+  current: true
